@@ -1,7 +1,7 @@
 from selenium import webdriver
 
 from fixture.session import SessionHelper
-from assert_test.assert_helper import AssertHelper
+from test.authorization_case.assert_authorization import AssertHelper
 
 
 
