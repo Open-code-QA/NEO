@@ -8,7 +8,11 @@ from assert_test.assert_helper import AssertHelper
 class Application:
 
     def __init__(self):
+<<<<<<< Updated upstream
         self.wd = webdriver.Firefox(executable_path="C:/Users/polinkevich/PycharmProjects/NEO1/driver1/geckodriver.exe")
+=======
+        self.wd = webdriver.Firefox(executable_path="driver/geckodriver.exe")
+>>>>>>> Stashed changes
         self.wd.maximize_window()
         self.wd.implicitly_wait(10)
         self.session = SessionHelper(self)
