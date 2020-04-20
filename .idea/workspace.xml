@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <list default="true" id="b99740d4-bc2f-4d1d-8deb-725959b88615" name="Default Changelist" comment="" />
 =======
     <list default="true" id="b99740d4-bc2f-4d1d-8deb-725959b88615" name="Default Changelist" comment="">
@@ -13,6 +14,9 @@
       <change beforePath="$PROJECT_DIR$/test/authorization_case/test_authorization.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/authorization_case/test_authorization.py" afterDir="false" />
 >>>>>>> Stashed changes
     </list>
+>>>>>>> Stashed changes
+=======
+    <list default="true" id="b99740d4-bc2f-4d1d-8deb-725959b88615" name="Default Changelist" comment="" />
 >>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
