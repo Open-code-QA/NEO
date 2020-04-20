@@ -1,7 +1,7 @@
 from selenium import webdriver
 
 from fixture.session import SessionHelper
-from test.authorization_case.assert_authorization import AssertHelper
+from test.authorization_case.assert_authorization import AssertAuthorization
 
 
 
@@ -12,7 +12,7 @@ class Application:
         self.wd.maximize_window()
         self.wd.implicitly_wait(10)
         self.session = SessionHelper(self)
-        self.assert_helper = AssertHelper(self)
+        self.assert_authorization = AssertAuthorization(self)
 
     def open_home_page(self):
         wd = self.wd
