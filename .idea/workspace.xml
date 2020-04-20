@@ -1,9 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="b99740d4-bc2f-4d1d-8deb-725959b88615" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/test/authorization_case/assert_authorization.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/authorization_case/assert_authorization.py" afterDir="false" />
     </list>
+=======
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+    <list default="true" id="b99740d4-bc2f-4d1d-8deb-725959b88615" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="b99740d4-bc2f-4d1d-8deb-725959b88615" name="Default Changelist" comment="">
+<<<<<<< Updated upstream
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fixture/application.py" beforeDir="false" afterPath="$PROJECT_DIR$/fixture/application.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/geckodriver.log" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/test/authorization_case/test_authorization.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/authorization_case/test_authorization.py" afterDir="false" />
+>>>>>>> Stashed changes
+    </list>
+>>>>>>> Stashed changes
+=======
+    <list default="true" id="b99740d4-bc2f-4d1d-8deb-725959b88615" name="Default Changelist" comment="" />
+>>>>>>> Stashed changes
+>>>>>>> Polinkevich
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,10 +50,29 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$/test/authorization" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
   </component>
   <component name="RecentsManager">
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+<<<<<<< Updated upstream
+    <property name="settings.editor.selected.configurable" value="configurable.group.project" />
+=======
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
+>>>>>>> Stashed changes
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+<<<<<<< Updated upstream
+=======
+      <recent name="C:\Devel\NEO\test\authorization_case" />
+      <recent name="C:\Devel\NEO\test\authorization" />
+>>>>>>> Stashed changes
+      <recent name="C:\Users\polinkevich\PycharmProjects\NEO1\driver1" />
+    </key>
+>>>>>>> Polinkevich
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\polinkevich\PycharmProjects\NEO1\driver" />
       <recent name="C:\Users\polinkevich\PycharmProjects\NEO1" />
@@ -114,12 +153,28 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="2014" y="174" width="1092" height="707" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860/1600.0.1920.1040@1600.0.1920.1040" timestamp="1584963772922" />
+<<<<<<< HEAD
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587116995601" />
     <state x="652" y="281" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587117054278">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="543" y="232" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1585403226870" />
     <state x="652" y="281" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1587117054278" />
+=======
+<<<<<<< Updated upstream
+    <state x="543" y="232" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585403226870">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="543" y="232" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1585403226870" />
+=======
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587116995601" />
+    <state x="652" y="281" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587134274512">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="543" y="232" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1585403226870" />
+    <state x="652" y="281" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1587134274512" />
+>>>>>>> Stashed changes
+>>>>>>> Polinkevich
     <state x="530" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585404922906">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
