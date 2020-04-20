@@ -15,3 +15,11 @@ class SessionHelper:
         wd.find_element_by_xpath("/html/body/div/main/section/div[2]/form/div[2]/input").clear()
         wd.find_element_by_xpath("/html/body/div/main/section/div[2]/form/div[2]/input").send_keys(password)
         wd.find_element_by_xpath("/html/body/div/main/section/div[2]/form/button").click()
+
+    def open_neo(self):
+        wd = self.app.wd
+        wd.find_element_by_class_name("home-tab").click()
+
+    def home_button(self):
+        wd = self.app.wd
+        wd.find_element_by_class_name("navigation__nav-link").click()
