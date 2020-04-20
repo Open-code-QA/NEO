@@ -5,9 +5,13 @@
     <list default="true" id="b99740d4-bc2f-4d1d-8deb-725959b88615" name="Default Changelist" comment="" />
 =======
     <list default="true" id="b99740d4-bc2f-4d1d-8deb-725959b88615" name="Default Changelist" comment="">
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fixture/application.py" beforeDir="false" afterPath="$PROJECT_DIR$/fixture/application.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/geckodriver.log" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/test/authorization_case/test_authorization.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/authorization_case/test_authorization.py" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
 >>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +47,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+<<<<<<< Updated upstream
+=======
+      <recent name="C:\Devel\NEO\test\authorization_case" />
+      <recent name="C:\Devel\NEO\test\authorization" />
+>>>>>>> Stashed changes
       <recent name="C:\Users\polinkevich\PycharmProjects\NEO1\driver1" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
