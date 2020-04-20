@@ -23,3 +23,7 @@ class SessionHelper:
     def home_button(self):
         wd = self.app.wd
         wd.find_element_by_class_name("navigation__nav-link").click()
+
+    def logout_button(self):
+        wd = self.app.wd
+        wd.find_element_by_xpath("/html/body/div/header/div[3]/button").click()

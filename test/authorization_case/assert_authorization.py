@@ -7,3 +7,8 @@ class AssertAuthorization:
         wd = self.app.wd
         text_title = wd.find_element_by_class_name("text")
         return text_title.text
+
+    def assert_logout(self):
+        wd = self.app.wd
+        text_button = wd.find_element_by_xpath("/html/body/div/main/section/div[2]/form/button")
+        return text_button.text
