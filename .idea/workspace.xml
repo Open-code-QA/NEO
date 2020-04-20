@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b99740d4-bc2f-4d1d-8deb-725959b88615" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assert_test/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/authorization_case/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assert_test/assert_helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/authorization_case/assert_authorization.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/driver1/geckodriver.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fixture/application.py" beforeDir="false" afterPath="$PROJECT_DIR$/fixture/application.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/geckodriver.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/authorization_case/test_authorization.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/authorization_case/assert_authorization.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/authorization_case/assert_authorization.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,6 +103,11 @@
       <updated>1584957382023</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/NEO" />
+    </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="174" width="1092" height="707" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587116995601">
